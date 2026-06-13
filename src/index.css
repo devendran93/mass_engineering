@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  overflow-x:hidden;
+}
+
+@keyframes marquee{
+  0%{
+    transform:translateX(100%);
+  }
+
+  100%{
+    transform:translateX(-100%);
+  }
+}
+
+.animate-marquee{
+  animation:
+    marquee
+    12s linear infinite;
+}
+
+@keyframes fadeIn {
+
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+}
+
+
+.animate-fadeIn {
+
+  animation:
+    fadeIn
+    1s
+    ease;
+
+}
+
+
+
+.swiper-slide {
+
+  overflow: hidden;
+
+}
+
+
+
+.swiper-slide-next,
+.swiper-slide-prev {
+
+  opacity: 0 !important;
+
+}
+
+/* Recruiters Image Scroll  */
+
+@keyframes recruiterMove {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(calc(-100% + 100vw));
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.mobile-recruiter-slider {
+  width: max-content;
+  animation: recruiterMove 18s ease-in-out infinite;
+}
