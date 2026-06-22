@@ -82,7 +82,7 @@ export default function Principal() {
 
             <h4 className="mt-8 text-2xl font-bold">
 
-              Dr. D. Aruldasan
+              Dr. K. Kumar, ME , Ph.D.,
 
             </h4>
 

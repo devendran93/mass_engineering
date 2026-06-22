@@ -61,7 +61,7 @@ export default function Principal() {
 
               <div className="mt-8">
                 <h3 className="text-2xl md:text-3xl font-bold text-slate-800">
-                  Dr. D. Aruldasan
+                  Dr. K. Kumar, ME , Ph.D.,
                 </h3>
 
                 <p className="text-rose-600 font-semibold text-lg mt-2">
@@ -134,7 +134,7 @@ export default function Principal() {
             {/* Signature */}
             <div className="mt-12 text-right">
               <h4 className="text-2xl font-bold text-slate-900">
-                Dr. D. Aruldasan
+                Dr. K. Kumar
               </h4>
               <p className="text-rose-600 font-medium mt-1">
                 Principal
