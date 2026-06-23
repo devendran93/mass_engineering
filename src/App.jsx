@@ -21,6 +21,7 @@ import Cafeteria from './pages/Cafeteria';
 import Transport from './pages/Transport';
 import Research from './pages/Research'
 import Placement from './pages/Placement'
+import Faculty from './pages/Faculty';
 import Downloads from './pages/Downloads';
 import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
@@ -50,6 +51,7 @@ const App = () => {
           <Route path="/transport" element={<Transport />} />
           <Route path="/research" element={<Research />} />
           <Route path="/placement" element={<Placement />} />
+          <Route path="/faculty" element={<Faculty />} />
           <Route path="/downloads" element={<Downloads />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/contact" element={<Contact />} />

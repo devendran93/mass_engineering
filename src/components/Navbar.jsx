@@ -129,6 +129,7 @@ export default function Navbar() {
 
             <Link to="/research" onClick={closeAll}>Research</Link>
             <Link to="/placement" onClick={closeAll}>Placement</Link>
+            <Link to="/faculty" onClick={closeAll}>Faculty</Link>
             <Link to="/downloads" onClick={closeAll}>Downloads</Link>
             <Link to="/gallery" onClick={closeAll}>Gallery</Link>
             <Link to="/contact" onClick={closeAll}>Contact</Link>
@@ -443,6 +444,10 @@ export default function Navbar() {
 
             <Link to="/placement" onClick={closeAll}>
               PLACEMENT
+            </Link>
+
+            <Link to="/faculty" onClick={closeAll}>
+              FACULTY
             </Link>
 
             <Link to="/downloads" onClick={closeAll}>
