@@ -61,7 +61,7 @@ export default function Principal() {
 
               <div className="mt-8">
                 <h3 className="text-2xl md:text-3xl font-bold text-slate-800">
-                  Dr. K. Kumar, ME , Ph.D.,
+                  Dr. G. Saravanakumar, M.E., Ph.D., M.B.A.,
                 </h3>
 
                 <p className="text-rose-600 font-semibold text-lg mt-2">
@@ -106,35 +106,39 @@ export default function Principal() {
 
             <div className="space-y-8">
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                Welcome to our institution. Our commitment is to provide
-                quality technical education that empowers students with
-                knowledge, skills, and ethical values. We strive to create a
-                vibrant learning environment that promotes innovation,
-                research, and leadership.
+                Dr. G. Saravana Kumar is a distinguished academician, researcher, 
+                and administrator with nearly 27 years of combined experience in industry, 
+                teaching, research, and academic leadership. He earned his B.E. in 1994, M.E. 
+                in 2002, and Ph.D. from Anna University, Chennai, in 2008.
               </p>
 
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                Through dedicated faculty, modern infrastructure, and
-                industry-oriented training, we prepare students to meet
-                global challenges and contribute meaningfully to society.
-                We believe that education is not merely the acquisition of
-                knowledge but the development of character, creativity, and
-                responsibility.
+                <b>He has served at renowned institutions, including BITS Pilani, Dubai Campus, 
+                and Manipal University,</b> and has over 11 years of administrative experience as 
+                Professor and Dean in reputed engineering colleges. His expertise spans Process 
+                Control, Control Systems, Robotics, Instrumentation, and Industrial Automation. 
+                As a recognized Ph.D. Supervisor, he has guided five scholars to successful 
+                completion of their doctoral degrees, published over 25 research papers in reputed 
+                International Journals and IEEE conferences, and secured research grants exceeding 
+                ₹20 lakhs from premier funding agencies such as CSIR, DRDO, BRNS, BARC, AICTE, 
+                and DST-NIMAT. 
               </p>
 
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                We encourage every student to dream big, work hard, embrace
-                lifelong learning, and become responsible professionals
-                capable of making a positive impact in the world. Together,
-                let us build a future filled with excellence, integrity, and
-                success.
+                <b>He is a Life Member </b>of the Indian Society for Technical Education (ISTE), 
+                Instrumentation Society of India (ISOI), Systems Society of India (SSI), 
+                the International Association of Engineers (IAENG), and is also a Member of IEEE 
+                (USA). As Principal, Dr. Saravana Kumar is dedicated to fostering academic 
+                excellence, research, innovation, industry collaboration, and holistic student 
+                development, with the vision of transforming the institution into a centre of 
+                excellence that produces competent professionals and responsible global citizens.     
               </p>
             </div>
 
             {/* Signature */}
             <div className="mt-12 text-right">
               <h4 className="text-2xl font-bold text-slate-900">
-                Dr. K. Kumar
+                Dr. G. Saravanakumar
               </h4>
               <p className="text-rose-600 font-medium mt-1">
                 Principal
