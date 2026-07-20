@@ -253,12 +253,12 @@ export default function ApplyOnline() {
           <div className="mt-8 flex flex-col md:flex-row justify-center items-center gap-6 md:gap-10">
             <div className="flex items-center gap-3 text-lg">
               <FaPhoneAlt />
-              +91 XXXXX XXXXX
+              +91 94880 12299
             </div>
 
             <div className="flex items-center gap-3 text-lg break-all">
               <FaEnvelope />
-              backupmasscollege@gmail.com
+              mass@masscollege.in
             </div>
           </div>
         </div>
