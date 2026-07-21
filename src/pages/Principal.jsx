@@ -7,7 +7,7 @@ export default function Principal() {
       {/* Hero Section */}
       <section className="py-24 bg-gradient-to-r from-rose-900 via-rose-800 to-rose-700 text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-white">
-          Principal Message
+          From the Principal's desk
         </h1>
         <p className="mt-5 text-rose-100 text-lg">
           Inspiring Excellence Through Education
@@ -54,9 +54,10 @@ export default function Principal() {
             <div data-aos="fade-left">
               <FaQuoteLeft className="text-6xl text-rose-300 mb-6" />
 
-              <h2 className="text-3xl md:text-5xl font-bold text-slate-900 leading-tight">
-                Education is the foundation for innovation, leadership and
-                social transformation.
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 leading-tight">
+              The ultimate goal of education is to empower students with knowledge, 
+              strong character, and ethical values, enabling them to become responsible
+               professionals and compassionate citizens.
               </h2>
 
               <div className="mt-8">
@@ -70,13 +71,6 @@ export default function Principal() {
 
                 <div className="w-24 h-1 bg-rose-500 mt-4 rounded-full"></div>
               </div>
-
-              <p className="mt-8 text-gray-600 leading-8 text-lg">
-                Welcome to our institution. Our mission is to provide quality
-                education, nurture innovation, and empower students with the
-                knowledge and skills required to excel in a rapidly evolving
-                world.
-              </p>
             </div>
           </div>
         </div>
@@ -101,37 +95,47 @@ export default function Principal() {
             "
           >
             <h3 className="text-3xl font-bold text-slate-900 mb-8 text-center">
-              Message from the Principal
+              From the Principal's desk
             </h3>
 
             <div className="space-y-8">
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                Dr. G. Saravana Kumar is a distinguished academician, researcher, 
-                and administrator with nearly 27 years of combined experience in industry, 
-                teaching, research, and academic leadership. He earned his B.E. in 1994, M.E. 
-                in 2002, and Ph.D. from Anna University, Chennai, in 2008.
+                Dr. G. Saravana Kumar is a distinguished academician, researcher, and
+                administrator with nearly 27 years of combined experience in industry,
+                teaching, research, and academic leadership. He earned his
+                <b> B.E. (EEE)</b> in 1994, <b>M.E. (Process Control & Instrumentation)</b> in
+                2002, and <b>Ph.D. (EEE)</b> from Anna University, Chennai, in 2008.
               </p>
 
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                <b>He has served at renowned institutions, including BITS Pilani, Dubai Campus, 
-                and Manipal University,</b> and has over 11 years of administrative experience as 
-                Professor and Dean in reputed engineering colleges. His expertise spans Process 
-                Control, Control Systems, Robotics, Instrumentation, and Industrial Automation. 
-                As a recognized Ph.D. Supervisor, he has guided five scholars to successful 
-                completion of their doctoral degrees, published over 25 research papers in reputed 
-                International Journals and IEEE conferences, and secured research grants exceeding 
-                ₹20 lakhs from premier funding agencies such as CSIR, DRDO, BRNS, BARC, AICTE, 
-                and DST-NIMAT. 
+                Throughout his academic career, he has been associated with several
+                prestigious institutions, including <b>BITS Pilani, Dubai Campus</b> and
+                <b> Manipal University</b>, and has over 11 years of administrative
+                experience as Professor and Dean in reputed engineering colleges. His
+                expertise spans Process Control, Control Systems, Robotics,
+                Instrumentation, and Industrial Automation.
               </p>
 
               <p className="text-gray-600 leading-9 text-lg text-justify">
-                <b>He is a Life Member </b>of the Indian Society for Technical Education (ISTE), 
-                Instrumentation Society of India (ISOI), Systems Society of India (SSI), 
-                the International Association of Engineers (IAENG), and is also a Member of IEEE 
-                (USA). As Principal, Dr. Saravana Kumar is dedicated to fostering academic 
-                excellence, research, innovation, industry collaboration, and holistic student 
-                development, with the vision of transforming the institution into a centre of 
-                excellence that produces competent professionals and responsible global citizens.     
+                As a recognized <b>Ph.D. Supervisor of Anna University</b>, he has guided
+                five scholars to the successful completion of their doctoral degrees,
+                published over 25 research papers in reputed international journals and
+                IEEE conferences, and secured research grants exceeding
+                <b> ₹20 lakhs</b> from premier funding agencies such as<b> CSIR, DRDO, BRNS,
+                BARC, AICTE, and DST-NIMAT.</b> He also serves as a reviewer for reputed
+                international journals and is actively engaged in promoting quality
+                research and innovation.
+              </p>
+
+              <p className="text-gray-600 leading-9 text-lg text-justify">
+                He is a <b>Life Member</b> of the Indian Society for Technical Education
+                (ISTE), Instrumentation Society of India (ISOI), Systems Society of India
+                (SSI), the International Association of Engineers (IAENG), and is also a
+                Member of IEEE. As Principal, Dr. Saravana Kumar is dedicated to
+                fostering academic excellence, research, innovation, industry
+                collaboration, and holistic student development, with the vision of
+                transforming the institution into a centre of excellence that produces
+                competent professionals and responsible global citizens.
               </p>
             </div>
 

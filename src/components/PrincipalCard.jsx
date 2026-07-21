@@ -24,7 +24,7 @@ export default function Principal() {
 
           <h2 className="mt-6 text-4xl md:text-5xl font-bold">
 
-            Message From Principal
+            From the Principal's desk
 
           </h2>
 
@@ -58,19 +58,12 @@ export default function Principal() {
 
             <h3 className="mt-6 text-3xl md:text-4xl font-bold leading-tight">
 
-              Empowering students through innovation,
-              discipline and quality education.
+              The ultimate goal of education is to empower students with knowledge, 
+              strong character, and ethical values, enabling them to become responsible
+               professionals and compassionate citizens.
+
 
             </h3>
-
-
-
-            <p className="mt-8 text-gray-600 leading-9 text-lg">
-
-              Our institution nurtures future engineers with knowledge,
-              ethics and practical skills creating leaders for tomorrow.
-
-            </p>
 
 
 
