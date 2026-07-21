@@ -61,9 +61,10 @@ export default function Principal() {
               </h2>
 
               <div className="mt-8">
-                <h3 className="text-2xl md:text-3xl font-bold text-slate-800">
+                <h3 className="text-xl md:text-2xl font-bold text-slate-800">
                   Dr. G. Saravanakumar, M.E., Ph.D., M.B.A.,
                 </h3>
+
 
                 <p className="text-rose-600 font-semibold text-lg mt-2">
                   Principal

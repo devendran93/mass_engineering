@@ -75,7 +75,13 @@ export default function Principal() {
 
             <h4 className="mt-8 text-2xl font-bold">
 
-              Dr. G. Saravanakumar, M.E., Ph.D., M.B.A.,
+              Dr. G. Saravanakumar,
+
+            </h4>
+
+            <h4 className="mt-3 text-xl font-bold">
+
+              M.E., Ph.D., M.B.A.,
 
             </h4>
 
